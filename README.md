@@ -9,7 +9,7 @@ some added APIs for `performBackgroundFetch` and push notifications
 
 ## iOS Installation
 
-1. `npm install react-native-taplytics --save`
+1. `npm install react-native-taplytics --save`, and download `https://github.com/taplytics/taplytics-ios-sdk`
 2. In XCode's project navigator, right click on your project and choose "Add
    files to <your project>..."
 3. Choose `node_modules/react-native-taplytics/RNTaplytics.xcodeproj`
